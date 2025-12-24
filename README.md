@@ -8,7 +8,7 @@
 ---
 
 🎓 **About Me**
-- First-year DUT student in Data Engineering & AI  
+- Second-year DUT student in Data Engineering & AI  
 - EST Beni Mellal – Morocco  
 - Passionate about Data, AI, and Software Development  
 
@@ -30,8 +30,8 @@
 - Looking for an internship opportunity
 
 📫 **Contact**
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/yourname
+- 📧 Email: yassinemaataoui63@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/yassine-maataoui63
 
 ---
 
