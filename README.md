@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yassin</h1>
+<h3 align="center">Data Engineering & Artificial Intelligence Student</h3>
 
-<!--
-**yassinemaataoui/yassinemaataoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="images/profile.jpg" width="200" style="border-radius:50%"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **About Me**
+- First-year DUT student in Data Engineering & AI  
+- EST Beni Mellal – Morocco  
+- Passionate about Data, AI, and Software Development  
+
+💻 **Skills**
+- Programming: Python, C, Java (Basics)
+- Data: SQL, Pandas, NumPy
+- AI: Machine Learning Basics
+- Tools: Git, GitHub, Google Colab
+
+📂 **What you'll find on my GitHub**
+- Python mini-projects
+- Data analysis projects
+- Algorithms & C programming exercises
+- AI & Machine Learning basics
+
+🎯 **Current Goals**
+- Improve my skills in Data Engineering & AI
+- Build strong academic & personal projects
+- Looking for an internship opportunity
+
+📫 **Contact**
+- 📧 Email: yourmail@gmail.com  
+- 💼 LinkedIn: linkedin.com/in/yourname
+
+---
+
+⭐ *Feel free to explore my repositories and projects!*
+
