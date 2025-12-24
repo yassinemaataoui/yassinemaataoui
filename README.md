@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yassin</h1>
 <h3 align="center">Data Engineering & Artificial Intelligence Student</h3>
 
-<p align="center">
-  <img src="images/profile.jpg" width="200" style="border-radius:50%"/>
-</p>
 
 ---
 
